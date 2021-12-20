@@ -1,0 +1,12 @@
+{
+  "name": "telegram_shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "node-telegram-bot-api": "^0.56.0",
+    "sqlite3": "^5.0.2"
+  }
+}
